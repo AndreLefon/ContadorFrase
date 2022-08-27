@@ -51,8 +51,8 @@ int main() {
 
   printf("Vogais: %d", vogais);
   printf("\nConsoantes: %d", consoantes);
-  printf("\nDígitos: %d", digitos);
-  printf("\nEspaços: %d", espacos);
+  printf("\nDigitos: %d", digitos);
+  printf("\nEspacos: %d", espacos);
 
   return 0;
 }
